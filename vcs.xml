@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/liaohuqiu/leakcanary-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wangxinghe/Memo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/AndroidProject/Memo" />
   </component>
 </application>
